@@ -1,7 +1,7 @@
 import React from 'react'
 import Dropdowns from '../../../components/Admin/dropdown/dropdown'
 import { Button } from 'antd'
-import RevenueSummary from '../../../components/Admin/revenueSummary/RevenueSummary'
+import RevenueSummary from '../../../components/Admin/RevenueSummary/RevenueSummary'
 import BarChart from '../../../components/Admin/chart/chart'
 import KPIOverviews from '../../../components/Admin/KPIOverview/KPIOverview'
 import { RiFileExcel2Fill } from "react-icons/ri";
