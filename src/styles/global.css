@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* Ghi vào file global: styles/global.css hoặc trong style module */
+.ant-notification-notice {
+  padding: 8px 12px !important;
+  max-width: 300px !important;
+}
+.ant-notification-notice span {
+    margin-top: 10px;
+}
+
+.ant-notification-notice-message {
+  font-size: 14px !important;
+}
+
+.ant-notification-notice-description {
+  font-size: 12px !important;
+}
+
+.ant-notification-notice-icon-success {
+  font-size: 25px !important;
+  margin-top: 12px !important;
+
+}
+.ant-notification-notice-close {
+    top: 10px !important;
+
+}
+.ant-notification-notice-close span{
+    margin-top: -0px !important;
+
+}
+
+
