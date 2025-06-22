@@ -5,7 +5,7 @@ import DynamicFrom from '../../../components/Admin/DynamicFrom/from';
 import Model from '../../../components/Admin/Model/model';
 import { addUserRedux } from '../../../redux/api/apiRequest';
 import { useDispatch } from 'react-redux';
-import Popconfirms from '../../../components/Admin/popconfirm/popconfirm';
+import Popconfirms from '../../../components/Admin/Popconfirm/Popconfirm';
 
 const fields = [
   {
